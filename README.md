@@ -1,15 +1,12 @@
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
-<img align="right" width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/6097b2f6-7a8a-40ee-ae7f-535245eee145" />
 Hey ,I'm Chetna!
 
-🚀 About Me:
-Passionate about AI+ Cloud learning and IoT to create real-world, impactful solutions.
-I’m constantly exploring new technologies and love to build projects that merged creativity with logic.
+<img align="right" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/6097b2f6-7a8a-40ee-ae7f-535245eee145" />
+
+🚀 **About Me:**  
+Passionate about AI + Cloud learning and IoT to create real-world, impactful solutions.  
+I’m constantly exploring new technologies and love to build projects that merge creativity with logic.  
 
 🎓 B.Tech (IT) at Ratan Tata Maharashtra State Skills University  
 🌱 Currently learning Full Stack Development, AI, cloud, and clean code  
@@ -20,9 +17,13 @@ I’m constantly exploring new technologies and love to build projects that merg
 🔍 Interested in AI, automation, and problem solving  
 🛠️ Building projects to sharpen my real-world development skills  
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chetna.19_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetnasakarde2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanasakarde@gmail.com) 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
