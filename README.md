@@ -1,5 +1,5 @@
-# 💫 Hey ,I'm Chetna!
-**A passionate IT Engineer || Software Engineer **
+💫 Hey ,I'm Chetna!
+A passionate IT Engineer || Software Engineer
 
 - 🔭 **Student at Ratan Tata Maharashtra State Skills University Nagpur**
 - 🌱 **I,m currently learning in Information Technology**
