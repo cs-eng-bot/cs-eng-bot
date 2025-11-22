@@ -1,9 +1,20 @@
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,I'm+Chetna+Sakarde!&font=Fira%20Code&center=true&width=480&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+<!-- markdownlint-enable MD033 -->
 
 <img align="right" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/6097b2f6-7a8a-40ee-ae7f-535245eee145" />
 
 🚀 **About Me:**  
-*Hey, I'm Chetna — a curious learner who loves tech, creativity, and building cool things.*  
+*A curious learner who loves tech, creativity, and building cool things.*  
 *I'm diving deep into AI, Cloud, and Full Stack Development.*  
 *I believe in learning by doing — one project at a time!*  
 *Always open to collaboration and meaningful conversations.*  
