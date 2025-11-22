@@ -1,6 +1,6 @@
 
 
-<img align="right" width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/6097b2f6-7a8a-40ee-ae7f-535245eee145" />
+<img align="right" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/6097b2f6-7a8a-40ee-ae7f-535245eee145" />
 
 🚀 **About Me:**  
 *Hey, I'm Chetna — a curious learner who loves tech, creativity, and building cool things.*  
