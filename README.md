@@ -1,4 +1,4 @@
-# 💫 Hey ,I,m Chetna!
+# 💫 Hey ,I'm Chetna!
 **A passionate IT Engineer || Software Engineer **
 
 - 🔭 **Student at Ratan Tata Maharashtra State Skills University Nagpur**
